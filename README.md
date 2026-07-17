@@ -1,5 +1,7 @@
 # Lightweight AEC 48K
 
+中文 | [English](README_en.md)
+
 轻量级声学回声消除（AEC）推理模块，支持 48kHz 实时流式处理。
 
 ## 项目结构
