@@ -144,6 +144,10 @@ cl /EHsc /O2 /MD aec_inference.cpp /I<pybind11_include> /I<onnxruntime_include> 
 
 See [AEC_ONNX_USAGE.md](AEC_ONNX_USAGE.md)
 
+## Related Projects
+
+[lightweight-denoise-48k](https://github.com/a2heng/lightweight-denoise-48k) — A lightweight, real-time streaming voice denoising model for 48 kHz audio.
+
 ## License
 
 MIT

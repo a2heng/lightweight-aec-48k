@@ -143,6 +143,10 @@ cl /EHsc /O2 /MD aec_inference.cpp /I<pybind11_include> /I<onnxruntime_include> 
 
 参见 [AEC_ONNX_USAGE.md](AEC_ONNX_USAGE.md)
 
+## 相关项目
+
+[lightweight-denoise-48k](https://github.com/a2heng/lightweight-denoise-48k) — 轻量级的实时流式语音降噪模型，支持 48 kHz 音频处理。
+
 ## License
 
 MIT
